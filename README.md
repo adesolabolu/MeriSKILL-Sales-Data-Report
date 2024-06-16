@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - [Project Overview](#project-overview)
+- [Data Visualization](#data-visualization)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
 - [Data Cleaning/Preparation](#data-cleaningpreparation)
@@ -16,7 +17,8 @@ This project aims to analyze sales data to gain insights into the performance of
 
 ### Data Visualization
 ---
-![]()
+![](MeriSKILL-Sales-Data-Report_Page-0001)
+![](MeriSKILL-Sales-Data-Report_Page-0002)
 
 ### Data Sources
 ---
