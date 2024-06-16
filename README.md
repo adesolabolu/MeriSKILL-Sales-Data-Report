@@ -25,9 +25,9 @@ This project aims to analyze sales data to gain insights into the performance of
 The primary source of data is Sales Data.csv, this is an open source data that can be freely downloaded from an open source.
 
 ### Tools
-  - Microsoft Excel - Univariate Analysis
+  - Microsoft Excel ***[Download here](https://www.microsoft.com/en-us/microsoft-365/excel)*** - Univariate Analysis
   - Power Query - Data Cleaning and Data Preparation
-  - Microsoft PowerBI - Data Visualization
+  - Microsoft PowerBI ***[Download here](https://powerbi.microsoft.com/en-us/downloads/)*** - Data Visualization
  
 ### Data Cleaning/Preparation
 
@@ -86,6 +86,14 @@ The analysis results are summarized as follows;
 10. Tuesdays emerged as the busiest day for sales, with both orders (26,063) and total revenue ($5,087,956.78) reaching their peak.
 11. AAA Batteries (4-pack) reigned supreme in order volume, racking up a massive 31,017 orders. AA Batteries (4-pack) followed closely behind at 27,653 orders, while USB-C Charging Cables secured the third spot with 23,975 orders.
 12. LG Dryer emerged as the slowest mover in terms of quantity ordered, with only 646 units sold. LG Washing Machine followed closely behind at 666 units, and Vareebadd Phone rounded out the bottom three with 2,068 units sold.
+
+### Recommendations
+- Focus on top performers: Recommend prioritizing resources for marketing, promotion, and ensuring sufficient stock for top-selling products.
+- Analyze bottom performers: Investigate reasons behind low sales/quantity for bottom performers. Consider product improvements, targeted marketing campaigns, or potential removal from the product line.
+- Identify sales trends: Based on trends in sales and orders, suggest strategies to manage inventory levels and avoid stockouts during peak demand periods.
+- Target specific products/cities: Leverage insights from top-selling products and city-specific sales to develop targeted marketing campaigns in high-performing regions or for high-demand products.
+- Analyze customer behavior: If possible, explore the possibility of including customer data in future analyses to understand demographics and buying patterns for more targeted marketing efforts.
+- Promotional strategies: Analyze the impact of past promotions (if applicable) and suggest future promotional strategies based on sales trends and top-performing products.
 
 ### Limitations
 - External Factors: The report may not account for external factors impacting sales, such as economic conditions, industry trends, or competitor activity.
