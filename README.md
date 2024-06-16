@@ -32,14 +32,14 @@ The primary source of data is Sales Data.csv, this is an open source data that c
   - Microsoft PowerBI ***[Download here](https://powerbi.microsoft.com/en-us/downloads/)*** - Data Visualization
  
 ### Data Cleaning/Preparation
-
+---
 In the data preparation phase, we performed the following tasks:
 1. Data loading and inspection
 2. Handling missing values
 3. Data cleaning and formatting
 
 ### Exploratory Data Analysis
-
+---
 EDA involved exploring the datasets to answer key questions such as:
 
 - Total Orders
@@ -56,7 +56,7 @@ EDA involved exploring the datasets to answer key questions such as:
 - Bottom 5 Products by Quantity Ordered
 
 ### Data Analysis
-
+---
 Included below is some of the code I worked in order to acheive accurate results in my analyis
 
 To derive the date columns for the analysis I used;
@@ -75,6 +75,7 @@ in
 ```
 
 ### Results/Findings
+---
 The analysis results are summarized as follows;
 1. The total number of orders identified is 178,437.
 2. A total of 209,097 items were ordered.
@@ -90,6 +91,7 @@ The analysis results are summarized as follows;
 12. LG Dryer emerged as the slowest mover in terms of quantity ordered, with only 646 units sold. LG Washing Machine followed closely behind at 666 units, and Vareebadd Phone rounded out the bottom three with 2,068 units sold.
 
 ### Recommendations
+---
 - Focus on top performers: Recommend prioritizing resources for marketing, promotion, and ensuring sufficient stock for top-selling products.
 - Analyze bottom performers: Investigate reasons behind low sales/quantity for bottom performers. Consider product improvements, targeted marketing campaigns, or potential removal from the product line.
 - Identify sales trends: Based on trends in sales and orders, suggest strategies to manage inventory levels and avoid stockouts during peak demand periods.
@@ -98,5 +100,6 @@ The analysis results are summarized as follows;
 - Promotional strategies: Analyze the impact of past promotions (if applicable) and suggest future promotional strategies based on sales trends and top-performing products.
 
 ### Limitations
+---
 - External Factors: The report may not account for external factors impacting sales, such as economic conditions, industry trends, or competitor activity.
 - Customer Sentiment: Sales data doesn't capture customer sentiment or satisfaction, which can influence future buying decisions.
